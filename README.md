@@ -1,7 +1,5 @@
 # Google Pay UI
 
-[Short Project Description]
-
 ## Table of Contents
 
 - [Project Title](#project-title)
@@ -11,6 +9,7 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [License](#license)
+- [acknowledgement](#acknowledgement)
 
 ## Description
 
@@ -18,7 +17,11 @@ Google Pay UI clone build with Tailwind css and html
 
 ## Demo
 
-[Include links to a live demo, screenshots, or GIFs that showcase your project in action.]
+[Live Preview](https://sharif-22.github.io/Google-Pay-Ul/)
+
+preview ui
+
+![google pay preview](./public/images/gpay-ui-design-figma.png)
 
 ## Internship
 
@@ -60,3 +63,22 @@ npm run dev
 ## License
 
 [MIT](./LICENCE.md)
+
+## acknowledgement
+
+Thanks Vasanth for providing the banner images
+
+<div style="
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+  ">
+<img src="https://avatars.githubusercontent.com/u/95954567?v=4" width="100" alt="Vasanth" ></img>
+<p>
+<a href="https://github.com/Vk2401" target="_blank">
+Vasanth
+</a>
+</p>
+</div>
